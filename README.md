@@ -6,9 +6,6 @@ See me on:
 - [ORCID](https://orcid.org/0009-0008-1697-1465)
 - [GitHub](https://github.com/Wiederholung)
 
-Contact me with:
-- [Email](mailto:wiederholung@outlook.com)
-<!-- - Phone: +86 13661192968 (China) || +1 (626) 466-2343 (USA) -->
 
 Here are some ideas to get you started:
 
@@ -19,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: 
   - Email: [work](mailto:huyt@bupt.edu.cn) or [personal](mailto:wiederholung@outlook.com)
-  - Phone: +1 (626) 466-2343 (USA)
+  - Phone: +1 (626) 466-2343
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
