@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - Email: [work](mailto:huyt@bupt.edu.cn) or [personal](mailto:wiederholung@outlook.com)
   - Phone: +1 (626) 466-2343
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ...
 
