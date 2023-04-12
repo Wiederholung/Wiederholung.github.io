@@ -23,6 +23,6 @@ A little more about me:
   - Email: [work](mailto:huyt@bupt.edu.cn) or [personal](mailto:wiederholung@outlook.com)
   - Phone: +1 (626) 466-2343
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: need help with binding bank card to [OpenAI](https://craic.yuntop.com/#/index).
+- ⚡ Fun fact: need help with binding bank card to [OpenAI](https://craic.yuntop.com/#/index)
 
 
