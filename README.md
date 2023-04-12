@@ -17,7 +17,7 @@ A little more about me:
 - 🔭 I’m currently working on Academic Collaboration Recommendation System [(ACRS)](https://github.com/Wiederholung/Academic-Collaboration-RS).
 - 🌱 I’m currently learning Transformer, LLM, RL, Control Theory...
 - 👯 I’m looking to collaborate on [CRAIC 2023](https://craic.yuntop.com/#/index).
-- 🤔 I’m looking for a Ph.D offer, or internship in MSRA.
+- 🤔 I’m looking for a Ph.D offer, or internship in [MSRA](https://www.msra.cn/).
 - 💬 Ask me about anything！
 - 📫 How to reach me: 
   - Email: [work](mailto:huyt@bupt.edu.cn) or [personal](mailto:wiederholung@outlook.com)
