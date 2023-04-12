@@ -14,7 +14,7 @@ See me on:
 
 A little more about me:
 
-- 🔭 I’m currently working on Academic Collaboration Recommendation System [(ACRS)](https://github.com/Wiederholung/Academic-Collaboration-RS).
+- 🔭 I’m currently working on Academic Collaboration Recommendation System [(ACRS)](https://github.com/Wiederholung/Academic-Collaboration-RS), and this work will be published in [IEEE Trans on SMC 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021).
 - 🌱 I’m currently learning Transformer, LLM, RL, Control Theory...
 - 👯 I’m looking to collaborate on [CRAIC 2023](https://craic.yuntop.com/#/index).
 - 🤔 I’m looking for a Ph.D offer, or internship in [MSRA](https://www.msra.cn/).
